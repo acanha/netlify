@@ -1,1 +1,1 @@
-# netlify
+My personal blog. Visit it [here](http://vncz.js.org)
